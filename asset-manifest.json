@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/static/js/main.3f5ce7a0.chunk.js",
+    "main.js.map": "/static/js/main.3f5ce7a0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2990e7e4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2990e7e4.js.map",
+    "static/js/2.bf40fe65.chunk.js": "/static/js/2.bf40fe65.chunk.js",
+    "static/js/2.bf40fe65.chunk.js.map": "/static/js/2.bf40fe65.chunk.js.map",
+    "static/js/3.93f2ba74.chunk.js": "/static/js/3.93f2ba74.chunk.js",
+    "static/js/3.93f2ba74.chunk.js.map": "/static/js/3.93f2ba74.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.bf40fe65.chunk.js.LICENSE.txt": "/static/js/2.bf40fe65.chunk.js.LICENSE.txt",
+    "static/media/GiantRobotLTDLogo.b0b1762a.svg": "/static/media/GiantRobotLTDLogo.b0b1762a.svg",
+    "static/media/WhiteArrow.b1585c15.svg": "/static/media/WhiteArrow.b1585c15.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2990e7e4.js",
+    "static/js/2.bf40fe65.chunk.js",
+    "static/js/main.3f5ce7a0.chunk.js"
+  ]
+}
